@@ -1,6 +1,6 @@
 # PasswordManager
 
-PasswordManager written in C++
+PasswordManager 
 
 ## Installation
 
@@ -14,7 +14,7 @@ t.b.I.
 
 ## Contribution
 
-Studyproject to get hands on Experience in C++ Usage and enhance Coding skills.
+Studyproject to get hands on Experience in PL Usage and enhance Coding skills.
 
 written by ThatsMrDoood and NocturSum
 
